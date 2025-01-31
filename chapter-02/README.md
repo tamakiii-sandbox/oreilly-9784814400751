@@ -1,4 +1,4 @@
-# oreilly-9784814400751/chapter-01
+# oreilly-9784814400751/chapter-02
 
 ## How to use
 ```sh
